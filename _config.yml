@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               EMBC
 tagline:             
-url:                 http://bigdatalib.github.io/embcblog/
+url:                 
 paginate:            1
 baseurl:             http://bigdatalib.github.io/embcblog/
 
