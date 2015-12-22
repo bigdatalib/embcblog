@@ -7,9 +7,9 @@ relative_permalinks: true
 # Setup
 title:               EMBC
 tagline:             
-url:                 http://bigdatalib.github.io/poole/
+url:                 http://bigdatalib.github.io/embcblog/
 paginate:            1
-baseurl:             http://bigdatalib.github.io/poole/
+baseurl:             http://bigdatalib.github.io/embcblog/
 
 # Assets
 #
