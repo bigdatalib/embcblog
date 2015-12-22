@@ -5,7 +5,7 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
+title:               EMBC
 tagline:             The Jekyll Butler
 url:                 http://bigdatalib.github.io/embcblog/
 paginate:            1
