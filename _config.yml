@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               EMBC
-tagline:             EMBC Consulting
+tagline:             
 url:                 http://bigdatalib.github.io/poole/
 paginate:            1
 baseurl:             http://bigdatalib.github.io/poole/
