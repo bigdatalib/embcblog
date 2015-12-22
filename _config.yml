@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               EMBC
+tagline:             EMBC Consulting
+url:                 http://bigdatalib.github.io/poole/
 paginate:            1
 baseurl:             http://bigdatalib.github.io/poole/
 
@@ -20,9 +20,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              NS
+  url:               
+  email:             
 
 # Custom vars
 version:             2.0.0
