@@ -8,7 +8,7 @@ relative_permalinks: true
 title:               Poole
 tagline:             The Jekyll Butler
 url:                 http://bigdatalib.github.io/embcblog/
-paginate:            2
+paginate:            1
 baseurl:             http://bigdatalib.github.io/embcblog/
 
 # Assets
